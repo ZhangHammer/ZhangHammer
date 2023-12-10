@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T06:23:40.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uCHYb3_jO9ZdNpoPlcTC" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T06:26:12.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m-XsrasVr8D6ritQfdOc" version="22.1.7" type="github">
   <diagram name="第 1 页" id="XaN7gPJk6JCARQaVGKtE">
     <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1027" pageHeight="500" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-43" value="模型输出推理过程和SUG query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="250" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-45" value="基于以上策划，我推测用户可能会问以下问题：&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;1.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;2.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;3.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-45" value="基于以上策划，我推测用户可能会问以下问题：&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;1.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;2.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;3.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="742.5" y="290" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-46" value="Planing过程作为提示输入到模型当中，引导模型进行策划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -74,10 +74,10 @@
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-47" value="Planing" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="295" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-50" target="WMn9UdP0PbQBGyq4Aqd1-45">
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-50" target="WMn9UdP0PbQBGyq4Aqd1-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-50" target="WMn9UdP0PbQBGyq4Aqd1-1">
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-50" target="WMn9UdP0PbQBGyq4Aqd1-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="420" />
@@ -91,7 +91,7 @@
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-52" value="User Action" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1027" y="295" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-54" value="将User action转换成自然语言反馈大模型，例如用户点击了query，说明用户对xxx比较感兴趣" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-54" value="将User action转换成自然语言反馈大模型，例如用户点击了query，说明用户对xxx比较感兴趣，用于下一轮交互SUG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="407.5" height="30" as="geometry" />
         </mxCell>
       </root>
