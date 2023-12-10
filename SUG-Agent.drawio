@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T05:04:55.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GBCjnXaDvy9tMfxKyvvT" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T05:12:37.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HxJLWnRX0eH_0k9r_Ya5" version="22.1.7" type="github">
   <diagram name="第 1 页" id="XaN7gPJk6JCARQaVGKtE">
     <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="500" math="0" shadow="0">
       <root>
@@ -39,18 +39,13 @@
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-20" value="策划方案" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="175" y="80" width="105" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-22" target="WMn9UdP0PbQBGyq4Aqd1-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-22" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="335" y="10" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-23" target="WMn9UdP0PbQBGyq4Aqd1-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="425" y="210" />
-              <mxPoint x="345" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 针对用户问题进一步解答&amp;amp;信息补充&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 基于用户画像进行持仓、收益分析和建议；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 财务、抗风险分析和建议；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. 投资替代建议或者进一步投资建议&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. 市场分析和投资教育&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 针对用户问题进一步解答&amp;amp;信息补充；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 基于用户画像进行持仓、收益分析和建议；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 财务、抗风险分析和建议；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. 投资替代建议或者进一步投资建议；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. 市场分析和投资教育；&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="40" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-24" value="持仓管理意图SUG策划案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -77,13 +72,19 @@
           <mxGeometry x="70" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-43" value="模型输出推理过程和SUG query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="220" width="200" height="30" as="geometry" />
+          <mxGeometry x="760" y="220" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-45" value="基于以上策划，我推测用户可能会问以下问题：&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;1.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;2.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;3.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="260" height="90" as="geometry" />
+          <mxGeometry x="730" y="250" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-46" value="Planing过程作为提示输入到模型当中，引导模型进行策划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="176" height="30" as="geometry" />
+          <mxGeometry x="630" y="120" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-47" target="WMn9UdP0PbQBGyq4Aqd1-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-47" value="Planing" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="255" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
