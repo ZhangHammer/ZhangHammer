@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T05:12:59.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Qpp_kPbquY6-JER-nqAI" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T06:06:54.217Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sYzGQXmmOV37LAXwFrNz" version="22.1.7" type="github">
   <diagram name="第 1 页" id="XaN7gPJk6JCARQaVGKtE">
     <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1027" pageHeight="500" math="0" shadow="0">
       <root>
@@ -8,27 +8,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="220" width="140" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="215" y="380" width="290" height="100" as="geometry" />
+          <mxGeometry x="30" y="220" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="295" as="targetPoint" />
+            <mxPoint x="572.5" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-1" value="LLM-Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="250" width="280" height="90" as="geometry" />
+          <mxGeometry x="240" y="290" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-3" value="Dynamic-Memory&lt;br&gt;(用户历史querys)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="225" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-3" value="用户历史querys" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-4" value="Static-Memory&lt;br&gt;(用户画像)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="375" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-6" value="Memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-4" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-7" value="用户query" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="120" height="40" as="geometry" />
@@ -51,9 +45,6 @@
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-24" value="持仓管理意图SUG策划案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="20" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.479;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-5" target="WMn9UdP0PbQBGyq4Aqd1-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-8" target="WMn9UdP0PbQBGyq4Aqd1-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -68,23 +59,20 @@
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-36" value="针对意图制定策划方案，存储于数据库中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="30" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WMn9UdP0PbQBGyq4Aqd1-38" value="当前输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-43" value="模型输出推理过程和SUG query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="220" width="200" height="30" as="geometry" />
+          <mxGeometry x="770" y="250" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-45" value="基于以上策划，我推测用户可能会问以下问题：&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;1.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;2.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;3.&amp;nbsp; &amp;lt;CoT&amp;gt; &amp;lt;query&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="730" y="250" width="260" height="90" as="geometry" />
+          <mxGeometry x="742.5" y="290" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-46" value="Planing过程作为提示输入到模型当中，引导模型进行策划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="120" width="70" height="90" as="geometry" />
+          <mxGeometry x="640" y="150" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WMn9UdP0PbQBGyq4Aqd1-47" target="WMn9UdP0PbQBGyq4Aqd1-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WMn9UdP0PbQBGyq4Aqd1-47" value="Planing" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="255" width="120" height="80" as="geometry" />
+          <mxGeometry x="572.5" y="295" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
