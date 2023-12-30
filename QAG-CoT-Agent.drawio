@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T14:36:24.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qvnoUN9UKqZ8tE9q9FnO" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T14:36:57.277Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YiVjlc5Ezv5AsWxm6dlf" version="22.1.16" type="github">
   <diagram name="第 1 页" id="InZAc0_TM-ClW46jviGC">
     <mxGraphModel dx="2074" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WfHY0GyfMgqrQZnhInwm-50" value="状态转移矩阵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WfHY0GyfMgqrQZnhInwm-45">
+        <mxCell id="WfHY0GyfMgqrQZnhInwm-50" value="状态转移思维链" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WfHY0GyfMgqrQZnhInwm-45">
           <mxGeometry x="25.71428571428571" y="29.5" width="51.42857142857142" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WfHY0GyfMgqrQZnhInwm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WfHY0GyfMgqrQZnhInwm-45">
