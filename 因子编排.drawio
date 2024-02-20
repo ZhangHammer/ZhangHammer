@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T13:26:25.310Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hpjOhtz8PFmqKtM0rj5L" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T13:26:56.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mxcq-DBBJGqJ7VQKs5zi" version="23.0.2" type="github">
   <diagram name="第 1 页" id="_aEVsnGwdUrKQqscfobR">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
             <mxPoint x="620" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IVn4J9uPTKWjjx_IC5SH-19" value="输出因子：投资倾向问询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IVn4J9uPTKWjjx_IC5SH-19" value="输出问询因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
