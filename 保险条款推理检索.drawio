@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T10:15:39.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="aDC4GtjiLDZZF7PDyH8l" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T12:10:09.348Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qiKkxaVlE-GpKA7Pxo6H" version="23.1.5" type="github">
   <diagram name="第 1 页" id="OmQE0rkodiXoRp-qVE-m">
-    <mxGraphModel>
+    <mxGraphModel dx="1080" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="780" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-32" target="CbDMkdr1cvfWOWkOlBaR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-32" value="Product合同条款Doc" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-34" target="CbDMkdr1cvfWOWkOlBaR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-34" value="原子条款1&lt;br&gt;原子条款2&lt;br&gt;...&lt;br&gt;原子条款n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;聚类&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-37" target="CbDMkdr1cvfWOWkOlBaR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-37" value="承保" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="580" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-38" value="原子条款1&lt;br&gt;原子条款2&lt;br&gt;...&lt;br&gt;原子条款n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="25" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-39" target="CbDMkdr1cvfWOWkOlBaR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-39" value="理赔" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-40" value="原子条款1&lt;br&gt;原子条款2&lt;br&gt;...&lt;br&gt;原子条款n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="695" y="195" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-42" value="长文本按章节、段落进行拆条，得到原子条款" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=5;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="150" as="sourcePoint" />
+            <mxPoint x="680" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-48" value="意图/主题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="20" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-49" value="相关条款" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-50" value="相关条款" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-36" target="CbDMkdr1cvfWOWkOlBaR-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="100" as="sourcePoint" />
+            <mxPoint x="620" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-36" target="CbDMkdr1cvfWOWkOlBaR-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="100" as="sourcePoint" />
+            <mxPoint x="620" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;供给侧：原子条款拆条补充供给&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-56" value="LLM复杂问题&lt;br&gt;拆解策划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-57" value="用户问题：高血压能投保吗？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-58" target="CbDMkdr1cvfWOWkOlBaR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-58" target="CbDMkdr1cvfWOWkOlBaR-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-58" value="首先我需要了解xxx产品的承保疾病范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="343.75" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-59" target="CbDMkdr1cvfWOWkOlBaR-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-59" value="然后我需要判断高血压是否属于上述疾病范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="423.75" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CbDMkdr1cvfWOWkOlBaR-60" target="CbDMkdr1cvfWOWkOlBaR-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-60" value="承保" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="615" y="343.75" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-61" value="LLM&lt;br&gt;自主推理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="615" y="423.75" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CbDMkdr1cvfWOWkOlBaR-66" value="相关条款" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="705" y="336.25" width="80" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
