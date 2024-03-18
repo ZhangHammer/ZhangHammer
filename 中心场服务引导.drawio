@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T13:10:15.038Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="T9ZUUl9EGFQR2m_if30v" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T03:42:22.675Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_3wsKEdL2G-ccETWCVmd" version="24.0.7" type="github">
   <diagram name="第 1 页" id="EtUGMnVDYJDm20vKxgLq">
-    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-3" value="光伏大涨" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-3" value="光伏大涨" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-5" target="tnhg12BTTxNdXiN9A4QB-51">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tnhg12BTTxNdXiN9A4QB-5" target="tnhg12BTTxNdXiN9A4QB-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="175" />
@@ -16,135 +16,135 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;关于光伏行情的解读，主要有以下几个方面的信息：&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.光伏概念股反弹：近期，光伏概念股出现反弹，其中BC电池方向领涨。例如，钧达股份、鹿山新材涨停，海优新材涨近10％，福斯特、宇邦新材等也跟随上涨。&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.组件排产增加：据中泰证券的最新研报表示，由于之前的遗留订单以及节后市场的好转，预计3月的组件排产将大幅增加，初步判断环比30％可以预期，部分企业增幅甚至达到100％左右。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;关于光伏行情的解读，主要有以下几个方面的信息：&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.光伏概念股反弹：近期，光伏概念股出现反弹，其中BC电池方向领涨。例如，钧达股份、鹿山新材涨停，海优新材涨近10％，福斯特、宇邦新材等也跟随上涨。&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.组件排产增加：据中泰证券的最新研报表示，由于之前的遗留订单以及节后市场的好转，预计3月的组件排产将大幅增加，初步判断环比30％可以预期，部分企业增幅甚至达到100％左右。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="60" y="70" width="200" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-6" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;strong&gt;想了解光伏未来趋势？&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="340" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-6" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;strong&gt;想了解光伏未来趋势？&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="350" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-7" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;想挑选稳健光伏产品？&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="380" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-7" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;想挑选稳健光伏产品？&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="390" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-8" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;考虑分散光伏投资吗？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="420" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-8" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;考虑分散光伏投资吗？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="430" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;光伏设备行业估值较低，发展潜力较大，但中期产能过剩或影响其盈利能力。&lt;/div&gt;&lt;div&gt;1.光伏设备行业的估值低，随着需求的改善，有望迎来估值修复的机会。&lt;/div&gt;&lt;div&gt;2.当前光伏设备的需求强劲，且市场渗透率提升空间大，行业具备发展潜力。&lt;/div&gt;&lt;div&gt;3.中期产能过剩的压力仍然存在，可能会使价格下降，行业利润压缩。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="460" width="200" height="170" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;光伏设备行业估值较低，发展潜力较大，但中期产能过剩或影响其盈利能力。&lt;/div&gt;&lt;div&gt;1.光伏设备行业的估值低，随着需求的改善，有望迎来估值修复的机会。&lt;/div&gt;&lt;div&gt;2.当前光伏设备的需求强劲，且市场渗透率提升空间大，行业具备发展潜力。&lt;/div&gt;&lt;div&gt;3.中期产能过剩的压力仍然存在，可能会使价格下降，行业利润压缩。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="60" y="475" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-10" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;如何把握光伏股？&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="700" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-10" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;如何把握光伏股？&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="715" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;strong&gt;光伏行业风险点？&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="740" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;strong&gt;光伏行业风险点？&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="755" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-12" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;是否调整光伏仓位？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="780" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-12" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;是否调整光伏仓位？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="795" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;光伏行业的风险点主要包括以下几点：&lt;/div&gt;&lt;div&gt;1.市场供需变化：光伏行业的供需状况会受到宏观经济、政策调整、技术革新等多种因素的影响，市场供需的变化可能会对行业带来风险。&lt;/div&gt;&lt;div&gt;2.原材料价格波动：光伏行业的主要原材料如硅料、锂电池等价格波动可能会对行业的盈利能力带来影响。&lt;/div&gt;&lt;div&gt;3.国际贸易壁垒：光伏行业在国际市场的竞争力受到国际贸易壁垒的影响，...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="820" width="200" height="200" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;光伏行业的风险点主要包括以下几点：&lt;/div&gt;&lt;div&gt;1.市场供需变化：光伏行业的供需状况会受到宏观经济、政策调整、技术革新等多种因素的影响，市场供需的变化可能会对行业带来风险。&lt;/div&gt;&lt;div&gt;2.原材料价格波动：光伏行业的主要原材料如硅料、锂电池等价格波动可能会对行业的盈利能力带来影响。&lt;/div&gt;&lt;div&gt;3.国际贸易壁垒：光伏行业在国际市场的竞争力受到国际贸易壁垒的影响，...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="60" y="835" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-14" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;如何优化光伏持仓？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1080" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-14" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;如何优化光伏持仓？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1100" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-15" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;是否应加仓光伏股？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1120" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-15" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;是否应加仓光伏股？&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1140" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-16" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;行情解读&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1160" width="130" height="30" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-16" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;行情解读&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1180" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-17" value="&lt;div class=&quot;lake-content&quot;&gt;看来光伏行情的大涨引起了您的注意，这确实是个投资信号。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="290" width="200" height="40" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-17" value="&lt;div class=&quot;lake-content&quot;&gt;看来光伏行情的大涨引起了您的注意，是否想进一步了解光伏的趋势并进行相关产品的投资呢？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=2;align=left;" parent="1" vertex="1">
+          <mxGeometry x="60" y="290" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;看来您对光伏行业的发展趋势很感兴趣，投资光伏需要注意市场的波动。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="640" width="200" height="40" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;光伏行业正处于上升趋势，您是否想进一步把握光伏行业的优质产品，了解行业风险并进行投资调整呢？&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=2;align=left;" parent="1" vertex="1">
+          <mxGeometry x="60" y="655" width="200" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;看来您对光伏行业的发展趋势很感兴趣，投资光伏需要注意市场的波动。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1030" width="200" height="40" as="geometry" />
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;您已了解光伏行业的发展趋势和风险，让我们把握当前光伏的机会吧？&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1045" width="200" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-48" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-48" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="350" y="40" width="260" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-51" value="LLM个性化生成和推荐：承接语+三个推荐问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-51" value="LLM个性化生成和推荐：承接语+三个推荐问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="360" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-27" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-27" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="350" y="40" width="260" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-28">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tnhg12BTTxNdXiN9A4QB-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-28" target="tnhg12BTTxNdXiN9A4QB-51">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tnhg12BTTxNdXiN9A4QB-28" target="tnhg12BTTxNdXiN9A4QB-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户画像&lt;/font&gt;&lt;font style=&quot;&quot;&gt;：&lt;br&gt;年龄段：55至59岁&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;城市等级：二线&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;风险等级：较低&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;财富平台用户画像：稳健保守型&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;理财认知：中等水平&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;理财意愿：高&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;用户关键词：长期,债券,宏利,QDII&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;浏览基金：兴证全球恒悦180天持有期债券A&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;自选基金：汇添富稳航180天持有期债券&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;历史对话：&lt;/font&gt;&lt;br&gt;钩子和解读&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户画像&lt;/font&gt;&lt;font style=&quot;&quot;&gt;：&lt;br&gt;年龄段：55至59岁&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;城市等级：二线&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;风险等级：较低&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;财富平台用户画像：稳健保守型&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;理财认知：中等水平&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;理财意愿：高&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;用户关键词：长期,债券,宏利,QDII&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;浏览基金：兴证全球恒悦180天持有期债券A&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-size-adjust: auto;&quot;&gt;自选基金：汇添富稳航180天持有期债券&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;历史对话：&lt;/font&gt;&lt;br&gt;钩子和解读&lt;br style=&quot;caret-color: rgb(0, 0, 0); text-size-adjust: auto;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="355" y="50" width="250" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-60" target="tnhg12BTTxNdXiN9A4QB-51">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tnhg12BTTxNdXiN9A4QB-60" target="tnhg12BTTxNdXiN9A4QB-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-60" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-60" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="710" y="320" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;热点事件到行情解读转移：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;可以引导用户关注光伏的未来趋势来了解行情...&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;热点事件到选品服务转移：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;考虑到用户是稳健类型投资者，可以引导用户选择光伏相关稳健产品..&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;热点事件到行情解读转移：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;可以引导用户关注光伏的未来趋势来了解行情...&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;热点事件到选品服务转移：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;考虑到用户是稳健类型投资者，可以引导用户选择光伏相关稳健产品..&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="331.25" width="160" height="117.5" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-66" value="策划案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-66" value="策划案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-67" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-67" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="690" y="50" width="260" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tnhg12BTTxNdXiN9A4QB-67">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="tnhg12BTTxNdXiN9A4QB-67" vertex="1">
           <mxGeometry width="260" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-41" value="状态服务：热点事件解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tnhg12BTTxNdXiN9A4QB-67">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-41" value="状态服务：热点事件解读" style="rounded=0;whiteSpace=wrap;html=1;" parent="tnhg12BTTxNdXiN9A4QB-67" vertex="1">
           <mxGeometry x="35" y="35" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-42" value="下轮目标状态：行情分析、选品服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tnhg12BTTxNdXiN9A4QB-67">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-42" value="下轮目标状态：行情分析、选品服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="tnhg12BTTxNdXiN9A4QB-67" vertex="1">
           <mxGeometry x="35" y="105" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tnhg12BTTxNdXiN9A4QB-67" source="tnhg12BTTxNdXiN9A4QB-41" target="tnhg12BTTxNdXiN9A4QB-42">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tnhg12BTTxNdXiN9A4QB-67" source="tnhg12BTTxNdXiN9A4QB-41" target="tnhg12BTTxNdXiN9A4QB-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-44" value="状态转移：&lt;br&gt;1. 由当前状态推理出至多3个目标服务；&lt;br&gt;2. 推测下轮目标状态需要基于用户画像、历史对话、最终目标、剩余对话轮次&lt;br&gt;3. 状态等同服务" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tnhg12BTTxNdXiN9A4QB-67">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-44" value="状态转移：&lt;br&gt;1. 由当前状态推理出至多3个目标服务；&lt;br&gt;2. 推测下轮目标状态需要基于用户画像、历史对话、最终目标、剩余对话轮次&lt;br&gt;3. 状态等同服务" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tnhg12BTTxNdXiN9A4QB-67" vertex="1">
           <mxGeometry x="160" y="37.5" width="100" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-45" value="状态转移策划案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tnhg12BTTxNdXiN9A4QB-67">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-45" value="状态转移策划案" style="rounded=0;whiteSpace=wrap;html=1;" parent="tnhg12BTTxNdXiN9A4QB-67" vertex="1">
           <mxGeometry x="30" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tnhg12BTTxNdXiN9A4QB-67" source="tnhg12BTTxNdXiN9A4QB-42" target="tnhg12BTTxNdXiN9A4QB-45">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tnhg12BTTxNdXiN9A4QB-67" source="tnhg12BTTxNdXiN9A4QB-42" target="tnhg12BTTxNdXiN9A4QB-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM主动策划&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tnhg12BTTxNdXiN9A4QB-67">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM主动策划&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tnhg12BTTxNdXiN9A4QB-67" vertex="1">
           <mxGeometry x="80" y="5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-45" target="tnhg12BTTxNdXiN9A4QB-60">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tnhg12BTTxNdXiN9A4QB-45" target="tnhg12BTTxNdXiN9A4QB-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-51" target="tnhg12BTTxNdXiN9A4QB-17">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tnhg12BTTxNdXiN9A4QB-51" target="tnhg12BTTxNdXiN9A4QB-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="430" as="sourcePoint" />
             <mxPoint x="270" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tnhg12BTTxNdXiN9A4QB-6">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="390" as="sourcePoint" />
-            <mxPoint x="270" y="350" as="targetPoint" />
+            <mxPoint x="350" y="405" as="sourcePoint" />
+            <mxPoint x="260" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-51" target="tnhg12BTTxNdXiN9A4QB-7">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="tnhg12BTTxNdXiN9A4QB-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="400" as="sourcePoint" />
-            <mxPoint x="270" y="400" as="targetPoint" />
+            <mxPoint x="350" y="405" as="sourcePoint" />
+            <mxPoint x="270" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnhg12BTTxNdXiN9A4QB-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tnhg12BTTxNdXiN9A4QB-51" target="tnhg12BTTxNdXiN9A4QB-8">
+        <mxCell id="tnhg12BTTxNdXiN9A4QB-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="tnhg12BTTxNdXiN9A4QB-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="430" as="sourcePoint" />
-            <mxPoint x="470" y="380" as="targetPoint" />
+            <mxPoint x="350" y="405" as="sourcePoint" />
+            <mxPoint x="470" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
