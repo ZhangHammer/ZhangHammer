@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:02:41.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MyZs0dAK5m2YMCxsb1JQ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:09:21.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UxGOEkvIesqCYZDY6Boe" version="24.2.1" type="github">
   <diagram name="第 1 页" id="EtUGMnVDYJDm20vKxgLq">
     <mxGraphModel dx="2074" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
@@ -167,16 +167,16 @@
         <mxCell id="uR9ak8hIEpnR53gFkSXh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="1" source="uR9ak8hIEpnR53gFkSXh-18" target="uR9ak8hIEpnR53gFkSXh-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uR9ak8hIEpnR53gFkSXh-18" value="资产配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uR9ak8hIEpnR53gFkSXh-18" value="&lt;font color=&quot;#ff3333&quot;&gt;行情解读&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="92.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uR9ak8hIEpnR53gFkSXh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="1" source="uR9ak8hIEpnR53gFkSXh-20" target="uR9ak8hIEpnR53gFkSXh-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uR9ak8hIEpnR53gFkSXh-20" value="基金经理评测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="uR9ak8hIEpnR53gFkSXh-20" value="&lt;font color=&quot;#ff3333&quot;&gt;风险评估&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="715" y="92.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uR9ak8hIEpnR53gFkSXh-21" value="&lt;font color=&quot;#ff3333&quot;&gt;加减仓服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="uR9ak8hIEpnR53gFkSXh-21" value="&lt;font color=&quot;#ff3333&quot;&gt;选品服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="845" y="92.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uR9ak8hIEpnR53gFkSXh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="1" source="uR9ak8hIEpnR53gFkSXh-23" target="uR9ak8hIEpnR53gFkSXh-24" edge="1">
@@ -185,7 +185,7 @@
         <mxCell id="uR9ak8hIEpnR53gFkSXh-23" value="收益分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="157.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uR9ak8hIEpnR53gFkSXh-24" value="&lt;font color=&quot;#ff3333&quot;&gt;加减仓服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="uR9ak8hIEpnR53gFkSXh-24" value="&lt;font color=&quot;#330000&quot;&gt;选品服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="715" y="157.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uR9ak8hIEpnR53gFkSXh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="1" source="uR9ak8hIEpnR53gFkSXh-26" target="uR9ak8hIEpnR53gFkSXh-27" edge="1">
@@ -194,7 +194,7 @@
         <mxCell id="uR9ak8hIEpnR53gFkSXh-26" value="资产配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="222.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uR9ak8hIEpnR53gFkSXh-27" value="&lt;font color=&quot;#ff3333&quot;&gt;加减仓服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="uR9ak8hIEpnR53gFkSXh-27" value="&lt;font color=&quot;#330000&quot;&gt;选品服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="715" y="222.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uR9ak8hIEpnR53gFkSXh-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="1" source="uR9ak8hIEpnR53gFkSXh-29" target="uR9ak8hIEpnR53gFkSXh-23" edge="1">
@@ -223,7 +223,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uR9ak8hIEpnR53gFkSXh-32" value="&lt;font color=&quot;#ffffff&quot;&gt;给定历史对话和服务，大语言模型以目标服务为导向（加减仓）推理出几条达成目标服务最优的对话路径&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uR9ak8hIEpnR53gFkSXh-32" value="&lt;font color=&quot;#ffffff&quot;&gt;给定历史对话和服务，大语言模型以目标服务为导向（选品）推理出几条达成目标服务最优的对话路径&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="159.22" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uR9ak8hIEpnR53gFkSXh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.531;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" parent="1" source="tnhg12BTTxNdXiN9A4QB-5" target="tnhg12BTTxNdXiN9A4QB-51" edge="1">
