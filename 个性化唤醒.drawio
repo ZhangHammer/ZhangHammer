@@ -1,101 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T13:13:23.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iUW7v_SIrm-1HUdJhFEC" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T13:30:07.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="omuOuinqn704n99YBEQh" version="24.4.13" type="github">
   <diagram name="第 1 页" id="lO5QDAMBWzFpADkqgYbq">
     <mxGraphModel dx="2074" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yvLALc5PITRfLY4CFgFs-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="610" width="430" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-1" target="yvLALc5PITRfLY4CFgFs-2">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-47" target="yvLALc5PITRfLY4CFgFs-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-1" value="用户语音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="90" height="30" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-47" value="用户语音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-2" target="yvLALc5PITRfLY4CFgFs-7">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-48" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="525" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-50" value="1. 用户唤醒词语音到云端存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="515" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-51" value="2. 云端声纹注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="595" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-52" target="yvLALc5PITRfLY4CFgFs-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-2" value="声纹模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="640" width="90" height="40" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-52" value="云端保存语音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-4" target="yvLALc5PITRfLY4CFgFs-20">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-53" target="yvLALc5PITRfLY4CFgFs-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-4" value="唤醒模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="640" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-7" target="yvLALc5PITRfLY4CFgFs-9">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-53" target="yvLALc5PITRfLY4CFgFs-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-7" value="用户声纹embedding" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="90" y="720" width="90" height="80" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-53" value="声纹模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="635" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-8" target="yvLALc5PITRfLY4CFgFs-9">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-54" target="yvLALc5PITRfLY4CFgFs-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-8" value="声纹模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="640" width="90" height="40" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-54" value="用户声纹embedding" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="615" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-9" target="yvLALc5PITRfLY4CFgFs-19">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-57" value="3. 纯端侧隐私唤醒" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="695" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-74" target="yvLALc5PITRfLY4CFgFs-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-9" value="说话人确认模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="740" width="90" height="40" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-74" value="用户语音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="790" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-10" target="yvLALc5PITRfLY4CFgFs-8">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-76" target="yvLALc5PITRfLY4CFgFs-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-10" value="用户语音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="550" width="90" height="30" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-76" value="声纹模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="785" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yvLALc5PITRfLY4CFgFs-4">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-77" target="yvLALc5PITRfLY4CFgFs-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-77" value="说话人确认模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="785" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-79" value="云端下发到sdk上" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-81" value="云端下发到sdk上" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="725" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-84" target="yvLALc5PITRfLY4CFgFs-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-84" value="唤醒模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="875" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yvLALc5PITRfLY4CFgFs-86" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yvLALc5PITRfLY4CFgFs-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="580" as="sourcePoint" />
-            <mxPoint x="360" y="530" as="targetPoint" />
+            <mxPoint x="220" y="805" as="sourcePoint" />
+            <mxPoint x="285" y="855" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="600" />
+              <mxPoint x="230" y="855" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yvLALc5PITRfLY4CFgFs-18" target="yvLALc5PITRfLY4CFgFs-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-87" value="说话人score" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-18" value="score加权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="900" width="90" height="30" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-88" value="唤醒&lt;div&gt;score&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-19" value="说话人score" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285" y="820" width="60" height="30" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-92" value="score加权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="835" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-20" value="唤醒&lt;div&gt;score&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="820" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yvLALc5PITRfLY4CFgFs-18">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-93" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yvLALc5PITRfLY4CFgFs-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="850" as="sourcePoint" />
-            <mxPoint x="370" y="800" as="targetPoint" />
+            <mxPoint x="570" y="805" as="sourcePoint" />
+            <mxPoint x="620" y="755" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="880" />
+              <mxPoint x="610" y="815" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yvLALc5PITRfLY4CFgFs-18">
+        <mxCell id="yvLALc5PITRfLY4CFgFs-94" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yvLALc5PITRfLY4CFgFs-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="850" as="sourcePoint" />
-            <mxPoint x="490" y="800" as="targetPoint" />
+            <mxPoint x="580" y="895" as="sourcePoint" />
+            <mxPoint x="630" y="845" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="880" />
+              <mxPoint x="610" y="885" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-25" value="最终score" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="355" y="970" width="60" height="30" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="765" width="350" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-29" value="&lt;font color=&quot;#ff3333&quot;&gt;声纹注册过程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="105" y="820" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yvLALc5PITRfLY4CFgFs-34" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;两个过程放在同一个唤醒sdk中去做&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="910" width="170" height="90" as="geometry" />
+        <mxCell id="yvLALc5PITRfLY4CFgFs-96" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;两个过程放在同一个唤醒sdk中去做&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="895" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
